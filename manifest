@@ -1676,37 +1676,6 @@
             ]
         },
         
-        {
-            "id": "https://mss-cat.trin.cam.ac.uk/manuscripts/R.16.2_v0.1/canvas/62",
-            "type": "Canvas",
-            "height": 9637,
-            "width": 7009,
-            "label": {
-                "en": [
-                    "botmid lreg"
-                ]
-            },
-            "items": [
-                {
-                    "id": "https://mss-cat.trin.cam.ac.uk/manuscripts/R.16.2_v0.1/page/62",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://mss-cat.trin.cam.ac.uk/manuscripts/R.16.2_v0.1/annotation/62",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "body": {
-                                "type": "Choice",
-                                "items": [
-                                    
-                                ]
-                            },
-                            "target": "https://mss-cat.trin.cam.ac.uk/manuscripts/R.16.2_v0.1/canvas/62"
-                        }
-                    ]
-                }
-            ]
-        },
        {
             "id": "https://mss-cat.trin.cam.ac.uk/manuscripts/R.16.2_v0.1/canvas/64",
             "type": "Canvas",
