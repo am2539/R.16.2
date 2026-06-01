@@ -1,8 +1,8 @@
 {
     "@context": "http://iiif.io/api/presentation/2/context.json",
     "@type": "sc:Manifest",
-    "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/R.16.2_v0.1.json",
-    "label": "R.16.2 full set",
+    "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/R.16.2_layers.json",
+    "label": "Watching the Apocalypse with MS R.16.2",
     "description": "Bringing together the historic imagery taken of R.16.2 taken over the previous 127 years.",
     "thumbnail": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/R.16.2_v0.1%2F004_a_R.16.2_f001r.jp2/full/,500/0/default.jpg",
     "metadata": [
