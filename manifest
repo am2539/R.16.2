@@ -7286,39 +7286,8 @@
                                                 "profile": "level1"
                                             }
                                         ]
-                                    }
-                                ]
-                            },
-                            "target": "https://mss-cat.trin.cam.ac.uk/manuscripts/R.16.2_v0.1/canvas/275"
-                        }
-                    ]
-                }
-            ]
-        },
-
-        {
-            "id": "https://mss-cat.trin.cam.ac.uk/manuscripts/R.16.2_v0.1/canvas/278",
-            "type": "Canvas",
-            "height": 9637,
-            "width": 7009,
-            "label": {
-                "en": [
-                    "top.  lreg"
-                ]
-            },
-            "items": [
-                {
-                    "id": "https://mss-cat.trin.cam.ac.uk/manuscripts/R.16.2_v0.1/page/278",
-                    "type": "AnnotationPage",
-                    "items": [
-                        {
-                            "id": "https://mss-cat.trin.cam.ac.uk/manuscripts/R.16.2_v0.1/annotation/278",
-                            "type": "Annotation",
-                            "motivation": "painting",
-                            "body": {
-                                "type": "Choice",
-                                "items": [
-                                    {
+                                    },
+{
                                         "id": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/R.16.2_v0.1%2F065_R_16_2_lform_f031v_top-lreg.jp2/full/full/0/default.jpg",
                                         "type": "Image",
                                         "format": "image/jpeg",
@@ -7339,12 +7308,14 @@
                                     }
                                 ]
                             },
-                            "target": "https://mss-cat.trin.cam.ac.uk/manuscripts/R.16.2_v0.1/canvas/278"
+                            "target": "https://mss-cat.trin.cam.ac.uk/manuscripts/R.16.2_v0.1/canvas/275"
                         }
                     ]
                 }
             ]
         },
+
+       
         {
             "id": "https://mss-cat.trin.cam.ac.uk/manuscripts/R.16.2_v0.1/canvas/279",
             "type": "Canvas",
