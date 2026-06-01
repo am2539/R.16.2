@@ -3,41 +3,81 @@
     "@type": "sc:Manifest",
     "@id": "https://mss-cat.trin.cam.ac.uk/manuscripts/R.16.2_v0.1.json",
     "label": "R.16.2 full set",
-    "description": "Kit and Kaboodle",
+    "description": "Bringing together the historic imagery taken of R.16.2 taken over the previous 127 years.",
     "thumbnail": "https://trin-digital-library.trin.cam.ac.uk/iiif/2/R.16.2_v0.1%2F004_a_R.16.2_f001r.jp2/full/,500/0/default.jpg",
     "metadata": [
         {
-            "label": "Classmark",
-            "value": "R.16.2 full set"
-        },
-        {
-            "label": "Title",
-            "value": ""
-        },
-        {
-            "label": "Author",
-            "value": ""
-        },
-        {
-            "label": "Place",
-            "value": ""
-        },
-        {
-            "label": "Publisher",
-            "value": ""
-        },
-        {
-            "label": "Date",
-            "value": ""
-        },
-        {
-            "label": "",
-            "value": ""
-        },
-        {
-            "label": "For further information see the online catalogue via the link below:",
-            "value": "<a href=\"link\">View Record</a>"
-        }
+      "label": "Title",
+      "value": "\u003Cp\u003EThe Trinity Apocalypse\u003C/p\u003E"
+    },
+    {
+      "label": "Alternative Title",
+      "value": "\u003Cp\u003EThe Trinity Apocalypse\u003C/p\u003E"
+    },
+    {
+      "label": "James Number",
+      "value": "950"
+    },
+    {
+      "label": "Century",
+      "value": "13"
+    },
+    {
+      "label": "Provenance",
+      "value": "\u003Cp\u003EGiven by Dame Anne Sadleir. On the fly-leaf she has written: I commit this booke to the custodie of the Right Reuerend Father in God Raffe Lo: Bishop of Exon, when times are better setled (which God hasten) it is with my other booke &amp; my coins giuen to Trinitie Colledge Librarie in Cambridge, God in his good time restore her with her Sister Oxford to there pristine happiness, the Vulger People to there former obedience, and God blesſ and restore Charles the Second, &amp; make him like his most glorious Father. Amen. \u003Cbr /\u003EAugust the 20\u003Csup\u003Etie\u003C/sup\u003E. 1649. Anne Sadleir.\u003C/p\u003E\r\n\u003Cp\u003ENote: Vid. Epistolam M\u003Csup\u003Eri\u003C/sup\u003E &amp; Seniorum inter Chartular praenobilis illius Foeminae Dominae Anne Sadleir in hac classe reservatas. There is an oldish mark (xvii) in te cover: J.1.10 (R.5.5), probably later than the date of its arrival here.\u003C/p\u003E"
+    },
+    {
+      "label": "Second Folio",
+      "value": null
+    },
+    {
+      "label": "Religious House",
+      "value": ""
+    },
+    {
+      "label": "Donor",
+      "value": "Sadleir [née Coke], Anne (1585–1671/2), Literary Patron"
+    },
+    {
+      "label": "Size (cm)",
+      "value": "43.5 x 32"
+    },
+    {
+      "label": "Folios",
+      "value": "32+3 ff."
+    },
+    {
+      "label": "Binding",
+      "value": "The binding (xvi-xvii) is of white skin with gold tooling. The royal arms and crown in the centre."
+    },
+    {
+      "label": "Material",
+      "value": "Parchment"
+    },
+    {
+      "label": "Language",
+      "value": "Anglo Norman"
+    },
+    {
+      "label": "Collation",
+      "value": "\u003Cp\u003Ea\u003Csup\u003E2\u003C/sup\u003E 1 stuck to cover || 1\u003Csup\u003E8\u003C/sup\u003E-3\u003Csup\u003E8\u003C/sup\u003E 4\u003Csup\u003E6\u003C/sup\u003E 5\u003Csup\u003E4\u003C/sup\u003E (3 stuck to cover, 4 canc.).\u003C/p\u003E"
+    },
+    {
+      "label": "Notes",
+      "value": null
+    },
+    {
+      "label": "Manuscript Summary",
+      "value": null
+    },
+    {
+      "label": "Online Since",
+      "value": "24/05/2022"
+    },
+    {
+      "label": "Catalogue",
+      "value": "\u003Ca href='https://mss-cat.trin.cam.ac.uk/Manuscript/R.16.2'\u003EView Record\u003C/a\u003E"
+    }
     ],
     "license": "https://creativecommons.org/licenses/by-nc/4.0/",
     "attribution": "Trinity College, Cambridge",
